@@ -1,2 +1,37 @@
-# FUTURE_FS_01
-Personal Portfolio Website
+# Personal Portfolio Website
+
+This is my personal portfolio website created as part of the *Full Stack Web Development Internship* at *Future Interns*.
+
+## 📌 Project Objective
+To build a clean, responsive, and professional portfolio website that showcases:
+- My skills and tech stack
+- Projects and internship tasks
+- About / resume information
+- Contact details
+
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3 (to be added)
+- JavaScript (to be added)
+
+## 📂 Sections Included
+- Home
+- About Me
+- Projects
+- Contact
+
+## 🚀 Internship Program
+- Organization: *Future Interns*
+- Role: Full Stack Web Development Intern
+- Duration: 1 Month
+
+## 📬 Contact
+- Email: malupawashe@gmail.com
+- LinkedIn: https://www.linkedin.com/in/malu-pawashe
+- GitHub: https://github.com/your-username
+
+---
+
+This project will be updated regularly as I progress through my internship tasks.
+
+
