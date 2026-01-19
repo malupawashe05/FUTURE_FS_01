@@ -1,6 +1,6 @@
-# Personal Portfolio Website
+# Professional Portfolio Website
 
-This is my personal portfolio website created as part of the *Full Stack Web Development Internship* at *Future Interns*.
+This is my Professional portfolio website created as part of the *Full Stack Web Development Internship* at *Future Interns*.
 
 ## 📌 Project Objective
 To build a clean, responsive, and professional portfolio website that showcases:
