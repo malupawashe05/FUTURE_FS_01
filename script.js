@@ -36,14 +36,12 @@ togglebtn.addEventListener("click", () => {
     const page = document.querySelector(".page-content");
     const navbar = document.querySelector("nav");
     page.classList.toggle("dark");
-
-    // Toggle navbar dark/light classes
+  
     navbar.classList.toggle("bg-dark");
     navbar.classList.toggle("navbar-dark");
     navbar.classList.toggle("bg-light");
     navbar.classList.toggle("navbar-light");
 
-    // Optional: change navbar links color on mobile when dark
     const navLinks = navbar.querySelectorAll(".nav-link");
     navLinks.forEach(link => {
         if (page.classList.contains("dark")) {
@@ -66,7 +64,6 @@ document.addEventListener("DOMContentLoaded", function () {
     const value = searchInput.value.trim().toLowerCase();
     let firstMatchIndex = -1;
 
-    // find first match
     for (let i = 0; i < items.length; i++) {
       const title = items[i].dataset.title?.toLowerCase() || "";
       if (value && title.includes(value)) {
@@ -75,7 +72,6 @@ document.addEventListener("DOMContentLoaded", function () {
       }
     }
 
-    // show/hide
     items.forEach((item, index) => {
       if (!value) {
         item.style.display = "";
@@ -103,3 +99,4 @@ document.getElementById("contact-form").addEventListener("submit", function(e) {
     console.error(error);
   });
 });
+
