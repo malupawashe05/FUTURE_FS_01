@@ -11,8 +11,8 @@ To build a clean, responsive, and professional portfolio website that showcases:
 
 ## 🛠️ Tech Stack
 - HTML5  
-- CSS3 (to be added)
-- JavaScript (to be added)
+- CSS3
+- JavaScript
 
 ## 📂 Sections Included
 - Home
@@ -30,8 +30,5 @@ To build a clean, responsive, and professional portfolio website that showcases:
 - LinkedIn: https://www.linkedin.com/in/malu-pawashe
 - GitHub: https://github.com/your-username
 
----
-
-This project will be updated regularly as I progress through my internship tasks.
 
 
